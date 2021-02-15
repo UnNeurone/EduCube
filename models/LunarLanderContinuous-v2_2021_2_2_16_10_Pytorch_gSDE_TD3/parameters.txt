@@ -1,0 +1,6 @@
+Critic 
+[300, 400], 0.005, 0.01
+Actor 
+[300, 400], 0.01
+tau : 0.005, minibatch_size : 64, discount_gamma : 0.99
+nb episode : 500, nb timestep : 200

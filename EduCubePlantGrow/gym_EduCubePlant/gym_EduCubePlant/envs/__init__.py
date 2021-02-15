@@ -1,0 +1,2 @@
+from gym_EduCubePlant.envs.EduCubePlant_env import EduCubePlantEnv
+#from gym_EduCubePlant.envs.EduCubePlant_extrahard_env import EduCubePlantExtraHardEnv

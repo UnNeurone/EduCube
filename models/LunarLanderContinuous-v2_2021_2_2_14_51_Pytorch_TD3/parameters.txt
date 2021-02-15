@@ -1,0 +1,5 @@
+Critic 
+[400, 300], 0.001, 0.01
+Actor 
+[400, 300], 0.0001
+tau : 0.005, minibatch_size : 64, discount_gamma : 0.9998
